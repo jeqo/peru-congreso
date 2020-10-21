@@ -8,6 +8,24 @@
     <language>es-pe</language>
     <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Acción Popular</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alianza Para el Progreso</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/alianza-para-el-progreso/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/grupos/alianza-para-el-progreso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frente Popular Agrícola del Perú</title>
       <link>https://jeqo.github.io/peru-congreso/grupos/frente-popular-agr%C3%ADcola-del-per%C3%BA/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
@@ -17,20 +35,11 @@
     </item>
     
     <item>
-      <title>Acción Popular</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      <title>No Agrupados</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/no-agrupados/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alianza Para el Progreso</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/alianza-para-el-progreso/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/grupos/alianza-para-el-progreso/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/grupos/no-agrupados/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/fuerza-popular/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>No Agrupados</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/no-agrupados/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/grupos/no-agrupados/</guid>
       <description></description>
     </item>
     
