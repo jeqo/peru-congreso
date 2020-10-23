@@ -6,7 +6,16 @@
     <description>Recent content in Sectores on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Constitución y Reglamento</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</link>
@@ -44,6 +53,24 @@
     </item>
     
     <item>
+      <title>Justicia y Derechos Humanos</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo y Seguridad Social</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cultura y Patrimonio Cultural</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
@@ -71,15 +98,6 @@
     </item>
     
     <item>
-      <title>Trabajo y Seguridad Social</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
-      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pueblos Andinos, Amazónicos y Afroperuanos, Ambiente y Ecología</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</link>
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
@@ -94,15 +112,6 @@
       <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Justicia y Derechos Humanos</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</link>
-      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</guid>
       <description></description>
     </item>
     
@@ -148,15 +157,6 @@
       <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-del-consumidor-y-organismos-reguladores-de-los-servicios-p%C3%BAblicos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
-      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
       <description></description>
     </item>
     
