@@ -6,11 +6,11 @@
     <description>Recent content in Estados on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
       <description></description>
@@ -53,20 +53,20 @@
     </item>
     
     <item>
+      <title>Dictamen</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/dictamen/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/dictamen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Orden del Día</title>
       <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dictamen</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/dictamen/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/dictamen/</guid>
       <description></description>
     </item>
     
