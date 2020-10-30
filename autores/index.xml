@@ -8,6 +8,15 @@
     <language>es-pe</language>
     <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/autores/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Aguilar Zamora Manuel</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/aguilar-zamora-manuel/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/aguilar-zamora-manuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Benavides Gavidia Walter</title>
       <link>https://jeqo.github.io/peru-congreso/autores/benavides-gavidia-walter/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
@@ -35,6 +44,24 @@
     </item>
     
     <item>
+      <title>Fabián Díaz Yessy Nélida</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/fabi%C3%A1n-d%C3%ADaz-yessy-n%C3%A9lida/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/fabi%C3%A1n-d%C3%ADaz-yessy-n%C3%A9lida/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>García Oviedo Paul Gabriel</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/garc%C3%ADa-oviedo-paul-gabriel/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/garc%C3%ADa-oviedo-paul-gabriel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Omonte Durand Maria Del Carmen</title>
       <link>https://jeqo.github.io/peru-congreso/autores/omonte-durand-maria-del-carmen/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
@@ -49,6 +76,33 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-mimbela-jhosept-amado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pérez Ochoa Carlos Andrés</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-ochoa-carlos-andr%C3%A9s/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-ochoa-carlos-andr%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salinas López Franco</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/salinas-l%C3%B3pez-franco/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/salinas-l%C3%B3pez-franco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simeón Hurtado Luis Carlos</title>
+      <link>https://jeqo.github.io/peru-congreso/autores/sime%C3%B3n-hurtado-luis-carlos/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/autores/sime%C3%B3n-hurtado-luis-carlos/</guid>
       <description></description>
     </item>
     
@@ -188,15 +242,6 @@
     </item>
     
     <item>
-      <title>Aguilar Zamora Manuel</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/aguilar-zamora-manuel/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/aguilar-zamora-manuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Apaza Quispe Yessica Marisela</title>
       <link>https://jeqo.github.io/peru-congreso/autores/apaza-quispe-yessica-marisela/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
@@ -265,24 +310,6 @@
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/autores/durand-bustamante-kenyon-eduardo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fabián Díaz Yessy Nélida</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/fabi%C3%A1n-d%C3%ADaz-yessy-n%C3%A9lida/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/fabi%C3%A1n-d%C3%ADaz-yessy-n%C3%A9lida/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>García Oviedo Paul Gabriel</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/garc%C3%ADa-oviedo-paul-gabriel/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/garc%C3%ADa-oviedo-paul-gabriel/</guid>
       <description></description>
     </item>
     
@@ -377,29 +404,11 @@
     </item>
     
     <item>
-      <title>Salinas López Franco</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/salinas-l%C3%B3pez-franco/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/salinas-l%C3%B3pez-franco/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Santillana Paredes Robertina</title>
       <link>https://jeqo.github.io/peru-congreso/autores/santillana-paredes-robertina/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/autores/santillana-paredes-robertina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simeón Hurtado Luis Carlos</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/sime%C3%B3n-hurtado-luis-carlos/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/sime%C3%B3n-hurtado-luis-carlos/</guid>
       <description></description>
     </item>
     
@@ -769,15 +778,6 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-flores-jorge-luis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pérez Ochoa Carlos Andrés</title>
-      <link>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-ochoa-carlos-andr%C3%A9s/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/autores/p%C3%A9rez-ochoa-carlos-andr%C3%A9s/</guid>
       <description></description>
     </item>
     
