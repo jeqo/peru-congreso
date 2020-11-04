@@ -26,18 +26,9 @@
     </item>
     
     <item>
-      <title>Orden del Día</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dispensado 2da. votación</title>
       <link>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</guid>
       <description></description>
@@ -80,20 +71,20 @@
     </item>
     
     <item>
+      <title>Orden del Día</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Retirado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/retirado/</link>
       <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/retirado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aprobado</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
-      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
       <description></description>
     </item>
     
@@ -139,6 +130,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/se-inhibe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprobado</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
       <description></description>
     </item>
     

@@ -1168,13 +1168,13 @@
   </url>
   
   <url>
-    <loc>https://jeqo.github.io/peru-congreso/proponentes/ministerio-p%C3%BAblico/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
+    <loc>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+    <loc>https://jeqo.github.io/peru-congreso/proponentes/ministerio-p%C3%BAblico/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1500,11 +1500,6 @@
   <url>
     <loc>https://jeqo.github.io/peru-congreso/grupos/comisi%C3%B3n-especial-no-es-grupo-parlamentario/</loc>
     <lastmod>2020-10-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</loc>
-    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -2393,6 +2388,11 @@
   </url>
   
   <url>
+    <loc>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeqo.github.io/peru-congreso/proyectos-ley/2016-2021/06200/06293/</loc>
     <lastmod>2020-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -2865,11 +2865,6 @@
   <url>
     <loc>https://jeqo.github.io/peru-congreso/autores/alarc%C3%B3n-tejada-edgar-arnold/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeqo.github.io/peru-congreso/estados/aprobado/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -8425,6 +8420,11 @@
   <url>
     <loc>https://jeqo.github.io/peru-congreso/proyectos-ley/2016-2021/05100/05133/</loc>
     <lastmod>2020-05-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeqo.github.io/peru-congreso/estados/aprobado/</loc>
+    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
