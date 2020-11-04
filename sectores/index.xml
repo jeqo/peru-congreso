@@ -6,58 +6,103 @@
     <description>Recent content in Sectores on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Agraria</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constitución y Reglamento</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Educación, Juventud y Deporte</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultura y Patrimonio Cultural</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo y Seguridad Social</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciencia, Innovación y Tecnología</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/ciencia-innovaci%C3%B3n-y-tecnolog%C3%ADa/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/ciencia-innovaci%C3%B3n-y-tecnolog%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitución y Reglamento</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educación, Juventud y Deporte</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fiscalización y Contraloría</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/fiscalizaci%C3%B3n-y-contralor%C3%ADa/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/fiscalizaci%C3%B3n-y-contralor%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Agraria</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      <title>Salud y Población</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportes y Comunicaciones</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</guid>
       <description></description>
     </item>
     
@@ -80,24 +125,6 @@
     </item>
     
     <item>
-      <title>Trabajo y Seguridad Social</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inclusión Social y Personas con Discapacidad</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
@@ -112,15 +139,6 @@
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salud y Población</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -148,15 +166,6 @@
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transportes y Comunicaciones</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</guid>
       <description></description>
     </item>
     
@@ -202,15 +211,6 @@
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/comercio-exterior-y-turismo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ciencia, Innovación y Tecnología</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/ciencia-innovaci%C3%B3n-y-tecnolog%C3%ADa/</link>
-      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/ciencia-innovaci%C3%B3n-y-tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
     
