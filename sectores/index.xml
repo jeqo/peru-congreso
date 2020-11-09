@@ -6,11 +6,11 @@
     <description>Recent content in Sectores on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agraria</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
       <description></description>
@@ -19,7 +19,7 @@
     <item>
       <title>Cultura y Patrimonio Cultural</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</guid>
       <description></description>
@@ -28,9 +28,54 @@
     <item>
       <title>Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</link>
-      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presupuesto y Cuenta General de la República</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Producción, Micro y Pequeña Empresa y Cooperativas</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/producci%C3%B3n-micro-y-peque%C3%B1a-empresa-y-cooperativas/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/producci%C3%B3n-micro-y-peque%C3%B1a-empresa-y-cooperativas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justicia y Derechos Humanos</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pueblos Andinos, Amazónicos y Afroperuanos, Ambiente y Ecología</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</guid>
       <description></description>
     </item>
     
@@ -40,6 +85,15 @@
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transportes y Comunicaciones</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</guid>
       <description></description>
     </item>
     
@@ -98,33 +152,6 @@
     </item>
     
     <item>
-      <title>Transportes y Comunicaciones</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</link>
-      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/transportes-y-comunicaciones/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Justicia y Derechos Humanos</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</link>
-      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/justicia-y-derechos-humanos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Inclusión Social y Personas con Discapacidad</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
@@ -134,38 +161,11 @@
     </item>
     
     <item>
-      <title>Presupuesto y Cuenta General de la República</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vivienda y Construcción</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Producción, Micro y Pequeña Empresa y Cooperativas</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/producci%C3%B3n-micro-y-peque%C3%B1a-empresa-y-cooperativas/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/producci%C3%B3n-micro-y-peque%C3%B1a-empresa-y-cooperativas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pueblos Andinos, Amazónicos y Afroperuanos, Ambiente y Ecología</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/pueblos-andinos-amaz%C3%B3nicos-y-afroperuanos-ambiente-y-ecolog%C3%ADa/</guid>
       <description></description>
     </item>
     
