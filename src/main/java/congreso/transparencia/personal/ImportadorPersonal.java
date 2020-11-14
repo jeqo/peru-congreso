@@ -20,7 +20,7 @@ public class ImportadorPersonal {
             .replace("PK_", "")
             .replace("VC_PERSONAL_", "")
             .replace("MO_PERSONAL_", "")
-            .replace("IN_PERSONAL", ""))
+            .replace("IN_PERSONAL_", ""))
         .collect(Collectors.toList());
     var cols = headers.size();
     System.out.println("Cols:" + cols);
