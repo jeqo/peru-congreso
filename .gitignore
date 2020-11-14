@@ -1,5 +1,7 @@
 volumes/
 target/
 public/
-resources/
+./resources/
 logs/
+application.conf
+twitter4j.properties
