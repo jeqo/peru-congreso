@@ -46,6 +46,12 @@
     </dependency>
 
     <dependency>
+      <groupId>org.mongodb</groupId>
+      <artifactId>mongodb-driver</artifactId>
+      <version>3.6.4</version>
+    </dependency>
+
+    <dependency>
       <artifactId>config</artifactId>
       <groupId>com.typesafe</groupId>
       <version>1.4.0</version>
