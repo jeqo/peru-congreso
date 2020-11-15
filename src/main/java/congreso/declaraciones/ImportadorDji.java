@@ -1,4 +1,4 @@
-package congreso.ministerio.declaraciones;
+package congreso.declaraciones;
 
 import static java.lang.System.out;
 import static java.util.stream.Collectors.toList;
@@ -15,25 +15,22 @@ public class ImportadorDji {
 
   public static void main(String[] args) throws IOException {
     final var baseUrl = "https://dji.pide.gob.pe/consultas-dji/";
-    final var doc = Jsoup.connect(baseUrl + "resultado.php?tcargo=M")
-        .get();
-    final var table = doc.select("table.results").first();
+    var doc = Jsoup.connect(baseUrl + "dji-enti.php?ruc_enti=20161749126#personal").get();
+    final var tables = doc.select("table.results");
+    final var table = tables.first();
+    System.out.println(table);
     final var headers = table.select("th").stream().map(Element::text).collect(toList());
     out.println(headers);
 
     var entities = new LinkedHashMap<String, Map<String, String>>();
-    var entidadActual = "";
 
     var trs = table.select("tr");
     for (int i = 1; i < trs.size(); i ++) {
       var r = trs.get(i);
       var cells = r.select("td");
       final var entidad = cells.get(1).text().trim();
-      if (!entidad.isBlank()) {
-        entidadActual = entidad;
-      }
       var entity = new LinkedHashMap<String, String>();
-      entity.put("entidad", entidadActual);
+      entity.put("entidad", entidad);
       final var funcionario = cells.get(2).text().trim();
       entity.put("funcionario", funcionario);
       final var puesto = cells.get(3).text().trim();
@@ -57,6 +54,7 @@ public class ImportadorDji {
         .append(datos.get("funcionario")).append(",")
         .append(datos.get("estado")).append(",")
         .append(datos.get("ref")).append("\n"));
-    Files.writeString(Path.of("static/pcm/dji/2020.csv"), builder.toString());
+    Files.writeString(Path.of("static/congreso/dji/2020.csv"), builder.toString());
+
   }
 }
