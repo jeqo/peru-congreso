@@ -35,15 +35,6 @@
     </item>
     
     <item>
-      <title>Dictamen Negativo</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/dictamen-negativo/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/dictamen-negativo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Publicado El Peruano</title>
       <link>https://jeqo.github.io/peru-congreso/estados/publicado-el-peruano/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
@@ -112,6 +103,15 @@
       <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/observado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dictamen Negativo</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/dictamen-negativo/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/dictamen-negativo/</guid>
       <description></description>
     </item>
     
