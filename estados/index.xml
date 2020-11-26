@@ -17,18 +17,9 @@
     </item>
     
     <item>
-      <title>Orden del Día</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dispensado 2da. votación</title>
       <link>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</link>
-      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</guid>
       <description></description>
@@ -94,6 +85,15 @@
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orden del Día</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
       <description></description>
     </item>
     
