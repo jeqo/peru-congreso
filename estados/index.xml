@@ -6,13 +6,22 @@
     <description>Recent content in Estados on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
-      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>En comisión</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -28,18 +37,9 @@
     <item>
       <title>Retirado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/retirado/</link>
-      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/retirado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>En comisión</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -62,29 +62,11 @@
     </item>
     
     <item>
-      <title>Autógrafa</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/aut%C3%B3grafa/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/aut%C3%B3grafa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aprobado en Primera Votación</title>
       <link>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aprobado</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
-      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
       <description></description>
     </item>
     
@@ -107,6 +89,15 @@
     </item>
     
     <item>
+      <title>Insistencia</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/insistencia/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/insistencia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Observado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/observado/</link>
       <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
@@ -116,11 +107,11 @@
     </item>
     
     <item>
-      <title>Insistencia</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/insistencia/</link>
-      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Autógrafa</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/aut%C3%B3grafa/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/estados/insistencia/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/estados/aut%C3%B3grafa/</guid>
       <description></description>
     </item>
     
@@ -139,6 +130,15 @@
       <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/se-inhibe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aprobado</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
       <description></description>
     </item>
     
