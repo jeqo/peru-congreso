@@ -6,7 +6,16 @@
     <description>Recent content in Proponentes on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/proponentes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/proponentes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poder Ejecutivo</title>
+      <link>https://jeqo.github.io/peru-congreso/proponentes/poder-ejecutivo/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/proponentes/poder-ejecutivo/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Congreso</title>
       <link>https://jeqo.github.io/peru-congreso/proponentes/congreso/</link>
@@ -31,15 +40,6 @@
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/proponentes/gobiernos-regionales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poder Ejecutivo</title>
-      <link>https://jeqo.github.io/peru-congreso/proponentes/poder-ejecutivo/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/proponentes/poder-ejecutivo/</guid>
       <description></description>
     </item>
     
