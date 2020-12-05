@@ -6,7 +6,34 @@
     <description>Recent content in Sectores on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agraria</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trabajo y Seguridad Social</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
@@ -35,6 +62,24 @@
     </item>
     
     <item>
+      <title>Inclusión Social y Personas con Discapacidad</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaciones Exteriores</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/relaciones-exteriores/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/relaciones-exteriores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Salud y Población</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</link>
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
@@ -44,29 +89,11 @@
     </item>
     
     <item>
-      <title>Agraria</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Defensa del Consumidor y Organismos Reguladores de los Servicios Públicos</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/defensa-del-consumidor-y-organismos-reguladores-de-los-servicios-p%C3%BAblicos/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-del-consumidor-y-organismos-reguladores-de-los-servicios-p%C3%BAblicos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
       <description></description>
     </item>
     
@@ -85,15 +112,6 @@
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Trabajo y Seguridad Social</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/trabajo-y-seguridad-social/</guid>
       <description></description>
     </item>
     
@@ -179,29 +197,11 @@
     </item>
     
     <item>
-      <title>Inclusión Social y Personas con Discapacidad</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</link>
-      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/inclusi%C3%B3n-social-y-personas-con-discapacidad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vivienda y Construcción</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaciones Exteriores</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/relaciones-exteriores/</link>
-      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/relaciones-exteriores/</guid>
       <description></description>
     </item>
     
