@@ -8,6 +8,15 @@
     <language>es-pe</language>
     <lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Acción Popular</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Alianza Para el Progreso</title>
       <link>https://jeqo.github.io/peru-congreso/grupos/alianza-para-el-progreso/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
@@ -44,11 +53,11 @@
     </item>
     
     <item>
-      <title>Acción Popular</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
-      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Multipartidario</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/multipartidario/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/grupos/multipartidario/</guid>
       <description></description>
     </item>
     
@@ -94,15 +103,6 @@
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/nueva-constituci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multipartidario</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/multipartidario/</link>
-      <pubDate>Thu, 19 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/grupos/multipartidario/</guid>
       <description></description>
     </item>
     
