@@ -6,38 +6,20 @@
     <description>Recent content in Sectores on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/sectores/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Agraria</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Constitución y Reglamento</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educación, Juventud y Deporte</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/educaci%C3%B3n-juventud-y-deporte/</guid>
       <description></description>
@@ -46,9 +28,63 @@
     <item>
       <title>Presupuesto y Cuenta General de la República</title>
       <link>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/presupuesto-y-cuenta-general-de-la-rep%C3%BAblica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vivienda y Construcción</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitución y Reglamento</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/constituci%C3%B3n-y-reglamento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descentralización, Regionalización, Gobiernos Locales y Modernización de la Gestión del Estado</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/descentralizaci%C3%B3n-regionalizaci%C3%B3n-gobiernos-locales-y-modernizaci%C3%B3n-de-la-gesti%C3%B3n-del-estado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salud y Población</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agraria</title>
+      <link>https://jeqo.github.io/peru-congreso/sectores/agraria/</link>
+      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/sectores/agraria/</guid>
       <description></description>
     </item>
     
@@ -94,33 +130,6 @@
       <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/cultura-y-patrimonio-cultural/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Defensa Nacional, Orden Interno, Desarrollo Alternativo y Lucha Contra las Drogas</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/defensa-nacional-orden-interno-desarrollo-alternativo-y-lucha-contra-las-drogas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Economía, Banca, Finanzas e Inteligencia Financiera</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/econom%C3%ADa-banca-finanzas-e-inteligencia-financiera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salud y Población</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</link>
-      <pubDate>Mon, 07 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/salud-y-poblaci%C3%B3n/</guid>
       <description></description>
     </item>
     
@@ -193,15 +202,6 @@
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/sectores/ciencia-innovaci%C3%B3n-y-tecnolog%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vivienda y Construcción</title>
-      <link>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</link>
-      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/sectores/vivienda-y-construcci%C3%B3n/</guid>
       <description></description>
     </item>
     
