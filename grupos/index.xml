@@ -6,22 +6,31 @@
     <description>Recent content in Grupos on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Descentralización Democrática</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/descentralizaci%C3%B3n-democr%C3%A1tica/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Acción Popular</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/grupos/descentralizaci%C3%B3n-democr%C3%A1tica/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frente Popular Agrícola del Perú</title>
       <link>https://jeqo.github.io/peru-congreso/grupos/frente-popular-agr%C3%ADcola-del-per%C3%BA/</link>
-      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/frente-popular-agr%C3%ADcola-del-per%C3%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descentralización Democrática</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/descentralizaci%C3%B3n-democr%C3%A1tica/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/grupos/descentralizaci%C3%B3n-democr%C3%A1tica/</guid>
       <description></description>
     </item>
     
@@ -40,15 +49,6 @@
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/partido-morado/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Acción Popular</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
       <description></description>
     </item>
     
