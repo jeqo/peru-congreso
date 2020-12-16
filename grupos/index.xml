@@ -6,13 +6,22 @@
     <description>Recent content in Grupos on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/grupos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acción Popular</title>
       <link>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</link>
-      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/acci%C3%B3n-popular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unión por el Perú</title>
+      <link>https://jeqo.github.io/peru-congreso/grupos/uni%C3%B3n-por-el-per%C3%BA/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/grupos/uni%C3%B3n-por-el-per%C3%BA/</guid>
       <description></description>
     </item>
     
@@ -76,15 +85,6 @@
       <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/grupos/somos-per%C3%BA/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Unión por el Perú</title>
-      <link>https://jeqo.github.io/peru-congreso/grupos/uni%C3%B3n-por-el-per%C3%BA/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/grupos/uni%C3%B3n-por-el-per%C3%BA/</guid>
       <description></description>
     </item>
     
