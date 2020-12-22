@@ -6,7 +6,16 @@
     <description>Recent content in Estados on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Presentado</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>En comisión</title>
       <link>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</link>
@@ -17,29 +26,20 @@
     </item>
     
     <item>
-      <title>Presentado</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
+      <title>Publicado El Peruano</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/publicado-el-peruano/</link>
       <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/estados/publicado-el-peruano/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Orden del Día</title>
       <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
-      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publicado El Peruano</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/publicado-el-peruano/</link>
-      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/publicado-el-peruano/</guid>
       <description></description>
     </item>
     
@@ -73,7 +73,7 @@
     <item>
       <title>Dictamen</title>
       <link>https://jeqo.github.io/peru-congreso/estados/dictamen/</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/dictamen/</guid>
       <description></description>
