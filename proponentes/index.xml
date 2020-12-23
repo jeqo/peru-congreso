@@ -6,22 +6,31 @@
     <description>Recent content in Proponentes on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/proponentes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/proponentes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gobiernos Locales</title>
-      <link>https://jeqo.github.io/peru-congreso/proponentes/gobiernos-locales/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Colegios Profesionales</title>
+      <link>https://jeqo.github.io/peru-congreso/proponentes/colegios-profesionales/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/proponentes/gobiernos-locales/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/proponentes/colegios-profesionales/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Congreso</title>
       <link>https://jeqo.github.io/peru-congreso/proponentes/congreso/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/proponentes/congreso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gobiernos Locales</title>
+      <link>https://jeqo.github.io/peru-congreso/proponentes/gobiernos-locales/</link>
+      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/proponentes/gobiernos-locales/</guid>
       <description></description>
     </item>
     
@@ -58,15 +67,6 @@
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/proponentes/ministerio-p%C3%BAblico/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Colegios Profesionales</title>
-      <link>https://jeqo.github.io/peru-congreso/proponentes/colegios-profesionales/</link>
-      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/proponentes/colegios-profesionales/</guid>
       <description></description>
     </item>
     
