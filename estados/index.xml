@@ -6,11 +6,11 @@
     <description>Recent content in Estados on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
-      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
       <description></description>
@@ -19,27 +19,9 @@
     <item>
       <title>En comisión</title>
       <link>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</link>
-      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/en-comisi%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dispensado 2da. votación</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Orden del Día</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
-      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
       <description></description>
     </item>
     
@@ -53,11 +35,11 @@
     </item>
     
     <item>
-      <title>Aprobado</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
-      <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Orden del Día</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</link>
+      <pubDate>Sat, 12 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
+      <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
       <description></description>
     </item>
     
@@ -98,6 +80,15 @@
     </item>
     
     <item>
+      <title>Dispensado 2da. votación</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/dispensado-2da.-votaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dictamen Negativo</title>
       <link>https://jeqo.github.io/peru-congreso/estados/dictamen-negativo/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
@@ -107,9 +98,18 @@
     </item>
     
     <item>
+      <title>Aprobado</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/aprobado/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Insistencia</title>
       <link>https://jeqo.github.io/peru-congreso/estados/insistencia/</link>
-      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/insistencia/</guid>
       <description></description>
