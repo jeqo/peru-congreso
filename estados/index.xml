@@ -6,11 +6,11 @@
     <description>Recent content in Estados on Congreso Perú</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-pe</language>
-    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jeqo.github.io/peru-congreso/estados/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Presentado</title>
       <link>https://jeqo.github.io/peru-congreso/estados/presentado/</link>
-      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/presentado/</guid>
       <description></description>
@@ -44,6 +44,15 @@
     </item>
     
     <item>
+      <title>Aprobado en Primera Votación</title>
+      <link>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</link>
+      <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dictamen</title>
       <link>https://jeqo.github.io/peru-congreso/estados/dictamen/</link>
       <pubDate>Wed, 09 Dec 2020 00:00:00 +0000</pubDate>
@@ -67,15 +76,6 @@
       <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://jeqo.github.io/peru-congreso/estados/orden-del-d%C3%ADa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aprobado en Primera Votación</title>
-      <link>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeqo.github.io/peru-congreso/estados/aprobado-en-primera-votaci%C3%B3n/</guid>
       <description></description>
     </item>
     
